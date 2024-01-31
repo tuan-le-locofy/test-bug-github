@@ -1,0 +1,1225 @@
+.homepageChild {
+  position: absolute;
+  height: 5.59%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 94.41%;
+  left: 0;
+  background-color: var(--white);
+}
+.login {
+  position: relative;
+  line-height: 20px;
+}
+.button,
+.right {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.button {
+  border-radius: var(--br-7xs);
+  background-color: var(--purple-purple);
+  justify-content: center;
+  padding: var(--padding-mini) 32px;
+  text-align: center;
+  color: var(--white);
+}
+.right {
+  position: absolute;
+  height: 2.85%;
+  width: 14.17%;
+  top: 1.37%;
+  right: 11.39%;
+  bottom: 95.78%;
+  left: 74.44%;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.logoIcon {
+  width: 50px;
+  position: relative;
+  height: 50px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.left,
+.menu {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.left {
+  position: absolute;
+  height: 2.85%;
+  width: 35.56%;
+  top: 1.37%;
+  right: 53.06%;
+  bottom: 95.78%;
+  left: 11.39%;
+  align-items: center;
+}
+.backgroundIcon,
+.patternIcon {
+  position: absolute;
+  top: 221px;
+  left: 0;
+  width: 1440px;
+  height: 617px;
+}
+.patternIcon {
+  top: 285px;
+  left: 754px;
+  width: 556px;
+  height: 540px;
+  object-fit: contain;
+}
+.illustrationsChild {
+  position: absolute;
+  height: 99.23%;
+  width: 100%;
+  top: 0.38%;
+  right: 0;
+  bottom: 0.38%;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--white);
+  box-shadow: var(--card-shadow-1);
+}
+.illustrationsItem {
+  position: absolute;
+  height: 0.77%;
+  width: 81.05%;
+  top: 56.46%;
+  right: 11.09%;
+  bottom: 42.77%;
+  left: 7.86%;
+  border-top: 1px solid var(--greyscale-grey-pale);
+  box-sizing: border-box;
+}
+.illustrationsInner {
+  position: absolute;
+  height: 45.77%;
+  width: 91.94%;
+  top: 0.38%;
+  right: 8.06%;
+  bottom: 53.85%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div,
+.instagram {
+  position: absolute;
+  height: 51.07%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+}
+.div {
+  height: 42.49%;
+  width: 41.3%;
+  top: 57.51%;
+  font-size: var(--website-body-body-small-regular-size);
+  line-height: 20px;
+}
+.instagramIcon,
+.instagramParent {
+  position: absolute;
+  height: 35.85%;
+  width: 37.1%;
+  top: 12.62%;
+  right: 32.26%;
+  bottom: 51.54%;
+  left: 30.65%;
+}
+.instagramIcon {
+  height: 30.54%;
+  width: 16.13%;
+  top: 14.92%;
+  right: 75.81%;
+  bottom: 54.54%;
+  left: 8.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.illustrationsChild1,
+.illustrationsChild2,
+.rectangleDiv {
+  position: absolute;
+  height: 4.62%;
+  width: 34.68%;
+  top: 69.08%;
+  right: 57.26%;
+  bottom: 26.31%;
+  left: 8.06%;
+  border-radius: var(--br-3xs);
+  background-color: var(--greyscale-grey-pale);
+}
+.illustrationsChild1,
+.illustrationsChild2 {
+  top: 79.77%;
+  bottom: 15.62%;
+}
+.illustrationsChild2 {
+  width: 20.97%;
+  right: 8.06%;
+  left: 70.97%;
+}
+.illustrations {
+  position: absolute;
+  top: 236px;
+  left: 9px;
+  width: 248px;
+  height: 130px;
+  font-size: var(--website-body-body-large-regular-size);
+}
+.illustrationsChild3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--white);
+  box-shadow: var(--card-shadow-1);
+}
+.b,
+.dailyVisitor {
+  position: absolute;
+  top: 41%;
+  left: 12.6%;
+  line-height: 40px;
+}
+.dailyVisitor {
+  top: 16%;
+  font-size: var(--website-body-body-small-regular-size);
+  line-height: 20px;
+}
+.illustrations1 {
+  position: absolute;
+  top: 397.5px;
+  left: 130px;
+  width: 127px;
+  height: 100px;
+  font-size: var(--website-heading-h4-size);
+}
+.illustrationsChild5,
+.illustrationsChild6,
+.illustrationsChild7,
+.illustrationsChild8,
+.lineDiv {
+  position: absolute;
+  height: 0.49%;
+  width: 78.67%;
+  top: 79.17%;
+  right: 6.17%;
+  bottom: 20.34%;
+  left: 15.17%;
+  border-top: 1px solid var(--greyscale-grey-pale);
+  box-sizing: border-box;
+  opacity: 0.2;
+}
+.illustrationsChild5,
+.illustrationsChild6,
+.illustrationsChild7,
+.illustrationsChild8 {
+  top: 65.93%;
+  bottom: 33.58%;
+}
+.illustrationsChild6,
+.illustrationsChild7,
+.illustrationsChild8 {
+  top: 52.7%;
+  bottom: 46.81%;
+}
+.illustrationsChild7,
+.illustrationsChild8 {
+  top: 39.46%;
+  bottom: 60.05%;
+}
+.illustrationsChild8 {
+  top: 26.23%;
+  bottom: 73.28%;
+}
+.div1,
+.k,
+.k1,
+.k2 {
+  position: absolute;
+  top: 22.5%;
+  left: 0;
+  line-height: 120%;
+}
+.div1,
+.k1,
+.k2 {
+  top: 45%;
+}
+.div1,
+.k2 {
+  top: 67.5%;
+}
+.div1 {
+  top: 90%;
+}
+.kParent {
+  height: 58.82%;
+  width: 6%;
+  top: 23.53%;
+  right: 88.67%;
+  bottom: 17.65%;
+  left: 5.33%;
+}
+.apr,
+.kParent,
+.mar {
+  position: absolute;
+}
+.mar {
+  top: 0;
+  left: 0;
+  line-height: 120%;
+}
+.apr {
+  left: 24.02%;
+}
+.apr,
+.jun,
+.may {
+  top: 0;
+  line-height: 120%;
+}
+.may {
+  position: absolute;
+  left: 46.72%;
+}
+.jun {
+  left: 70.74%;
+}
+.jul,
+.jun,
+.marParent {
+  position: absolute;
+}
+.jul {
+  top: 0;
+  left: 93.45%;
+  line-height: 120%;
+}
+.marParent {
+  height: 5.88%;
+  width: 76.33%;
+  top: 86.27%;
+  right: 8.33%;
+  bottom: 7.84%;
+  left: 15.33%;
+}
+.dataAnalytics {
+  position: absolute;
+  top: 7.84%;
+  left: 5.33%;
+  font-size: var(--website-body-body-small-regular-size);
+  line-height: 18px;
+  color: var(--greyscale-dark-grey);
+}
+.groupChild,
+.groupIcon {
+  position: absolute;
+  height: 49.51%;
+  width: 78.33%;
+  top: 32.84%;
+  right: 5.33%;
+  bottom: 17.65%;
+  left: 16.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild {
+  height: 27.03%;
+  width: 34.29%;
+  top: 72.97%;
+  right: 32.86%;
+  bottom: 0;
+  left: 32.86%;
+  object-fit: contain;
+}
+.groupItem {
+  position: absolute;
+  height: 89.19%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 10.81%;
+  left: 0;
+  border-radius: 4px;
+  background-color: var(--purple-purple-pale);
+}
+.k4,
+.visitor {
+  position: absolute;
+  top: 13.51%;
+  left: 11.43%;
+  line-height: 110%;
+}
+.visitor {
+  top: 51.35%;
+  font-size: 8px;
+  opacity: 0.8;
+}
+.groupInner {
+  position: absolute;
+  height: 37.84%;
+  width: 20%;
+  top: 24.32%;
+  right: 11.43%;
+  bottom: 37.84%;
+  left: 68.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipseDiv,
+.vectorParent {
+  position: absolute;
+  height: 75.51%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 24.49%;
+  left: 0;
+}
+.ellipseDiv {
+  height: 16.33%;
+  width: 11.43%;
+  top: 83.67%;
+  right: 44.29%;
+  bottom: 0;
+  left: 44.29%;
+  border-radius: 50%;
+  background-color: var(--purple-purple-pale);
+  border: 1px solid var(--purple-purple);
+  box-sizing: border-box;
+}
+.groupParent {
+  position: absolute;
+  height: 24.02%;
+  width: 23.33%;
+  top: 23.53%;
+  right: 30.33%;
+  bottom: 52.45%;
+  left: 46.33%;
+  font-size: 12px;
+  color: var(--white);
+}
+.illustrations2 {
+  position: absolute;
+  top: 0;
+  left: 212px;
+  width: 300px;
+  height: 204px;
+  font-size: var(--font-size-3xs);
+  color: var(--greyscale-grey);
+}
+.slack1Icon {
+  position: absolute;
+  height: 52.63%;
+  width: 19.7%;
+  top: 21.05%;
+  right: 72.41%;
+  bottom: 26.32%;
+  left: 7.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b1,
+.totalSubscribe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+}
+.b1 {
+  top: 46.67%;
+  font-size: var(--website-body-body-large-regular-size);
+  line-height: 24px;
+}
+.totalSubscribeParent {
+  position: absolute;
+  height: 59.21%;
+  width: 50.74%;
+  top: 21.05%;
+  right: 15.76%;
+  bottom: 19.74%;
+  left: 33.5%;
+}
+.illustrations3 {
+  position: absolute;
+  top: 235.5px;
+  left: 289px;
+  width: 203px;
+  height: 76px;
+}
+.salesStats {
+  position: absolute;
+  top: 9.09%;
+  left: 8.89%;
+  line-height: 18px;
+}
+.illustrationsChild11,
+.illustrationsChild12,
+.illustrationsChild13,
+.illustrationsChild14 {
+  position: absolute;
+  height: 3.41%;
+  width: 67.78%;
+  top: 76.14%;
+  right: 7.78%;
+  bottom: 20.45%;
+  left: 24.44%;
+  border-radius: var(--br-3xs);
+  background-color: var(--greyscale-grey-pale);
+}
+.illustrationsChild12,
+.illustrationsChild13,
+.illustrationsChild14 {
+  width: 11.11%;
+  right: 81.11%;
+  left: 7.78%;
+}
+.illustrationsChild13,
+.illustrationsChild14 {
+  width: 67.78%;
+  top: 84.09%;
+  right: 7.78%;
+  bottom: 12.5%;
+  left: 24.44%;
+}
+.illustrationsChild14 {
+  width: 11.11%;
+  right: 81.11%;
+  left: 7.78%;
+}
+.illustrationsChild15 {
+  position: absolute;
+  height: 38.07%;
+  width: 37.22%;
+  top: 25%;
+  right: 29.44%;
+  bottom: 36.93%;
+  left: 33.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.illustrations4 {
+  position: absolute;
+  top: 27.5px;
+  left: 0;
+  width: 180px;
+  height: 176px;
+}
+.daily,
+.revenueGrowth {
+  position: absolute;
+  top: 11.84%;
+  left: 80.08%;
+  line-height: 120%;
+}
+.revenueGrowth {
+  top: 10.53%;
+  left: 6.78%;
+  font-size: var(--website-body-body-small-regular-size);
+  line-height: 18px;
+  color: var(--greyscale-dark-grey);
+}
+.illustrationsChild17 {
+  position: absolute;
+  height: 52.63%;
+  width: 79.66%;
+  top: 36.84%;
+  right: 10.17%;
+  bottom: 10.53%;
+  left: 10.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.illustrations5 {
+  position: absolute;
+  top: 343.5px;
+  left: 289px;
+  width: 236px;
+  height: 152px;
+  font-size: 11px;
+  color: var(--greyscale-grey);
+}
+.illustration1 {
+  position: absolute;
+  top: 0;
+  left: 11px;
+  width: 525px;
+  height: 497.5px;
+}
+.illustration,
+.rightillustration {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 534px;
+  height: 548px;
+}
+.rightillustration {
+  top: 285px;
+  left: 740px;
+  font-size: var(--website-body-body-small-regular-size);
+}
+.b2,
+.ratingOnGoogle {
+  position: absolute;
+  left: 0;
+}
+.ratingOnGoogle {
+  top: 70px;
+  line-height: 28px;
+  display: inline-block;
+  width: 160px;
+}
+.b2 {
+  top: 0;
+  font-size: var(--website-heading-h2-size);
+  line-height: 54px;
+  color: var(--greyscale-dark-grey);
+}
+.over500Business,
+.rating {
+  position: absolute;
+  width: 160px;
+}
+.rating {
+  top: 0;
+  left: 221px;
+  height: 126px;
+}
+.over500Business {
+  top: 70px;
+  left: 1px;
+  line-height: 28px;
+  display: inline-block;
+}
+.company {
+  top: 0;
+  width: 161px;
+  height: 126px;
+}
+.about1,
+.company,
+.weWillNot {
+  position: absolute;
+  left: 0;
+}
+.about1 {
+  top: 428px;
+  width: 381px;
+  height: 126px;
+}
+.weWillNot {
+  top: 356px;
+  font-size: var(--website-body-body-normal-bold-size);
+  line-height: 150%;
+}
+.yourBusinessEmail {
+  position: relative;
+  line-height: 26px;
+}
+.box {
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  border: 1px solid var(--greyscale-grey-pale);
+  box-sizing: border-box;
+  width: 480px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-5xl);
+}
+.box,
+.button1,
+.button2 {
+  position: absolute;
+  border-radius: var(--br-7xs);
+}
+.button2 {
+  height: 75.76%;
+  width: 31.25%;
+  top: 12.12%;
+  right: 1.67%;
+  bottom: 12.12%;
+  left: 67.08%;
+  background-color: var(--purple-purple);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-29xl);
+  box-sizing: border-box;
+  color: var(--white);
+}
+.button1 {
+  top: 278px;
+  left: 0;
+  background-color: var(--color-gray);
+  width: 480px;
+  height: 66px;
+  text-align: center;
+  font-size: var(--website-body-body-normal-bold-size);
+  color: var(--greyscale-grey-pale);
+}
+.theFastestAnd {
+  position: absolute;
+  top: 190px;
+  left: 0;
+  line-height: 28px;
+  display: inline-block;
+  width: 440px;
+}
+.left1,
+.weHelpAny {
+  position: absolute;
+  width: 536px;
+}
+.weHelpAny {
+  top: 0;
+  left: 0;
+  font-size: var(--website-heading-h1-size);
+  line-height: 58px;
+  display: inline-block;
+  color: var(--greyscale-dark-grey);
+}
+.left1 {
+  top: 285px;
+  left: 164px;
+  height: 554px;
+  font-size: var(--website-body-body-large-regular-size);
+  color: var(--greyscale-grey);
+}
+.bg,
+.bgIcon {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.bgIcon {
+  height: 25%;
+  top: 75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bg {
+  height: 100%;
+  top: 0;
+  background-color: var(--greyscale-dark-grey);
+}
+.akarIconslinkedinFill,
+.akarIconstwitterFill,
+.bxbxlInstagramAltIcon {
+  position: absolute;
+  height: 100%;
+  width: 17.65%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 82.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.akarIconstwitterFill,
+.bxbxlInstagramAltIcon {
+  right: 41.18%;
+  left: 41.18%;
+}
+.bxbxlInstagramAltIcon {
+  right: 82.35%;
+  left: 0;
+}
+.socialMedia {
+  position: absolute;
+  height: 35.29%;
+  width: 9.44%;
+  top: 29.41%;
+  right: 11.39%;
+  bottom: 35.29%;
+  left: 79.17%;
+}
+.growthlyAllRight {
+  position: absolute;
+  top: 35.29%;
+  left: 11.39%;
+  line-height: 20px;
+  opacity: 0.8;
+}
+.copyright,
+.tools {
+  position: absolute;
+  left: 0;
+}
+.copyright {
+  height: 17.44%;
+  width: 100%;
+  top: 82.56%;
+  right: 0;
+  bottom: 0;
+  font-size: var(--website-body-body-small-regular-size);
+}
+.tools {
+  top: 63.22%;
+  line-height: 26px;
+}
+.blog,
+.guidesAndResources,
+.resources1,
+.support {
+  position: absolute;
+  top: 85.06%;
+  left: 0;
+  line-height: 26px;
+}
+.blog,
+.guidesAndResources,
+.resources1 {
+  top: 41.38%;
+}
+.guidesAndResources,
+.resources1 {
+  top: 19.54%;
+}
+.resources1 {
+  top: 0;
+  line-height: 20px;
+  color: var(--white);
+}
+.resources {
+  position: absolute;
+  height: 82.08%;
+  width: 30.18%;
+  top: 0;
+  right: 0;
+  bottom: 17.92%;
+  left: 69.82%;
+}
+.contact1 {
+  position: absolute;
+  top: 87.74%;
+  left: 0;
+  line-height: 26px;
+}
+.about2,
+.partners,
+.privacyPolicy,
+.termsConditions {
+  position: absolute;
+  top: 69.81%;
+  left: 0;
+  line-height: 26px;
+}
+.about2,
+.privacyPolicy,
+.termsConditions {
+  top: 51.89%;
+}
+.about2,
+.privacyPolicy {
+  top: 33.96%;
+}
+.about2 {
+  top: 16.04%;
+}
+.company1 {
+  position: absolute;
+  height: 100%;
+  width: 26.55%;
+  top: 0;
+  right: 38.55%;
+  bottom: 0;
+  left: 34.91%;
+}
+.benefits,
+.features,
+.landingPages,
+.pricing1 {
+  position: absolute;
+  top: 85.23%;
+  left: 0;
+  line-height: 26px;
+}
+.benefits,
+.landingPages,
+.pricing1 {
+  top: 63.64%;
+}
+.landingPages,
+.pricing1 {
+  top: 42.05%;
+}
+.landingPages {
+  top: 20.45%;
+}
+.product,
+.shortlink {
+  position: absolute;
+  height: 83.02%;
+  width: 19.82%;
+  top: 0;
+  right: 80.18%;
+  bottom: 16.98%;
+  left: 0;
+}
+.shortlink {
+  height: 54.36%;
+  width: 38.19%;
+  top: 8.72%;
+  right: 11.46%;
+  bottom: 36.92%;
+  left: 50.35%;
+}
+.joinOurSlack {
+  position: absolute;
+  top: 0;
+  left: 14.22%;
+  line-height: 26px;
+}
+.iconslack {
+  position: absolute;
+  height: 76.92%;
+  width: 8.89%;
+  top: 11.54%;
+  right: 91.11%;
+  bottom: 11.54%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.slack {
+  position: absolute;
+  height: 11.21%;
+  width: 65.01%;
+  top: 88.79%;
+  right: 34.38%;
+  bottom: 0;
+  left: 0.61%;
+}
+.hellodhuhacreativecom {
+  position: absolute;
+  top: 0;
+  left: 14.88%;
+  line-height: 26px;
+}
+.email,
+.iconSystem {
+  position: absolute;
+  left: 0;
+}
+.iconSystem {
+  height: 92.31%;
+  width: 10.48%;
+  top: 3.85%;
+  right: 89.52%;
+  bottom: 3.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.email {
+  height: 11.21%;
+  width: 66.19%;
+  top: 72.41%;
+  right: 33.81%;
+  bottom: 16.38%;
+}
+.theFastestAnd1 {
+  position: absolute;
+  width: 99.39%;
+  top: 28.45%;
+  left: 0.61%;
+  line-height: 26px;
+  display: inline-block;
+}
+.about3,
+.logoIcon1 {
+  position: absolute;
+  top: 0;
+}
+.logoIcon1 {
+  height: 21.55%;
+  width: 14.45%;
+  right: 84.95%;
+  bottom: 78.45%;
+  left: 0.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.about3 {
+  height: 59.49%;
+  width: 24.03%;
+  right: 64.72%;
+  bottom: 40.51%;
+  left: 11.24%;
+}
+.content {
+  height: 22.26%;
+  width: 100%;
+  top: 77.74%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  color: var(--greyscale-grey-pale);
+}
+.bg1,
+.content,
+.separator {
+  position: absolute;
+}
+.separator {
+  height: 0.06%;
+  width: 77.29%;
+  top: 96.09%;
+  right: 11.35%;
+  bottom: 3.85%;
+  left: 11.35%;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  opacity: 0.2;
+}
+.bg1 {
+  height: 20.09%;
+  width: 100%;
+  top: 54.91%;
+  right: 0;
+  bottom: 25%;
+  left: 0;
+  background-color: var(--greyscale-dark-grey);
+}
+.patternChild,
+.patternItem {
+  position: absolute;
+  background-color: var(--purple-purple-pale);
+  display: none;
+}
+.patternChild {
+  height: 13.52%;
+  width: 7.52%;
+  top: 32.03%;
+  right: 43.38%;
+  bottom: 54.45%;
+  left: 49.1%;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.patternItem {
+  height: 21.46%;
+  width: 11.94%;
+  top: 22.49%;
+  right: -5.31%;
+  bottom: 56.05%;
+  left: 93.37%;
+}
+.patternChild1,
+.patternChild2,
+.patternChild3,
+.patternInner {
+  position: absolute;
+  height: 33.35%;
+  width: 17.71%;
+  top: 40%;
+  right: 23.21%;
+  bottom: 26.65%;
+  left: 59.08%;
+  background-color: var(--color-midnightblue-100);
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.patternChild1,
+.patternChild2,
+.patternChild3 {
+  height: 40%;
+  width: 21.24%;
+  top: 0;
+  right: 37.38%;
+  bottom: 60%;
+  left: 41.37%;
+}
+.patternChild2,
+.patternChild3 {
+  height: 19.18%;
+  width: 10.19%;
+  right: 79.63%;
+  bottom: 80.82%;
+  left: 10.19%;
+}
+.patternChild3 {
+  height: 26.65%;
+  width: 14.16%;
+  top: 73.31%;
+  right: 51.54%;
+  bottom: 0.04%;
+  left: 34.3%;
+}
+.patternChild4,
+.patternChild5,
+.patternChild6,
+.patternChild7,
+.patternChild8,
+.patternChild9 {
+  position: absolute;
+  height: 30%;
+  width: 15.93%;
+  top: 70%;
+  right: -0.23%;
+  bottom: 0;
+  left: 84.29%;
+  background-color: var(--color-midnightblue-100);
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.patternChild5,
+.patternChild6,
+.patternChild7,
+.patternChild8,
+.patternChild9 {
+  height: 8.33%;
+  width: 4.42%;
+  top: 91.64%;
+  right: 32.07%;
+  bottom: 0.04%;
+  left: 63.5%;
+}
+.patternChild6,
+.patternChild7,
+.patternChild8,
+.patternChild9 {
+  height: 12.49%;
+  width: 6.63%;
+  top: 50.39%;
+  right: -6.63%;
+  bottom: 37.12%;
+  left: 100%;
+}
+.patternChild7,
+.patternChild8,
+.patternChild9 {
+  height: 17.51%;
+  width: 9.3%;
+  top: 0;
+  right: 1.1%;
+  bottom: 82.49%;
+  left: 89.6%;
+}
+.patternChild8,
+.patternChild9 {
+  height: 8.33%;
+  width: 4.42%;
+  right: 22.79%;
+  bottom: 91.67%;
+  left: 72.78%;
+}
+.patternChild9 {
+  height: 22.49%;
+  width: 11.94%;
+  top: 17.51%;
+  right: 7.75%;
+  bottom: 60%;
+  left: 80.31%;
+}
+.pattern {
+  position: absolute;
+  height: 97.57%;
+  width: 46.08%;
+  top: 0;
+  right: 0;
+  bottom: 2.43%;
+  left: 53.92%;
+  opacity: 0.35;
+}
+.buttonBar {
+  position: absolute;
+  height: 22.92%;
+  width: 41.8%;
+  top: 77.08%;
+  right: 58.2%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gray);
+  text-align: center;
+}
+.readyToGet,
+.theFastestAnd2 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.theFastestAnd2 {
+  width: 41.8%;
+  top: 46.53%;
+  font-size: var(--website-body-body-large-regular-size);
+  line-height: 28px;
+  opacity: 0.8;
+}
+.readyToGet {
+  width: 43.37%;
+  top: 22.22%;
+  font-size: var(--website-heading-h2-size);
+  line-height: 54px;
+  color: var(--white);
+}
+.content1 {
+  position: absolute;
+  height: 16.44%;
+  width: 79.74%;
+  top: 54.91%;
+  right: 8.87%;
+  bottom: 28.65%;
+  left: 11.39%;
+  color: var(--greyscale-grey-pale);
+}
+.separto {
+  position: absolute;
+  height: 0.06%;
+  width: 77.29%;
+  top: 74.97%;
+  right: 11.35%;
+  bottom: 24.97%;
+  left: 11.35%;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  opacity: 0.2;
+}
+.homepage {
+  width: 100%;
+  position: relative;
+  background-color: var(--white);
+  height: 1752px;
+  text-align: left;
+  font-size: var(--website-body-body-normal-bold-size);
+  color: var(--greyscale-dark-grey);
+  font-family: var(--website-heading-h2);
+}

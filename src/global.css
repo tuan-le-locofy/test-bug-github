@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,400;0,700;1,400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --website-heading-h2: Chivo;
+
+  /* font sizes */
+  --website-heading-h2-size: 44px;
+  --website-body-body-large-regular-size: 18px;
+  --website-body-body-normal-bold-size: 16px;
+  --website-body-body-small-regular-size: 14px;
+  --website-heading-h1-size: 52px;
+  --font-size-3xs: 10px;
+  --website-heading-h4-size: 30px;
+
+  /* Colors */
+  --white: #fff;
+  --greyscale-grey-pale: #b4b6c4;
+  --color-gray: rgba(255, 255, 255, 0);
+  --purple-purple-pale: #9374ff;
+  --purple-purple: #6241d4;
+  --color-midnightblue-100: #36268c;
+  --greyscale-dark-grey: #060c3b;
+  --greyscale-grey: #5d6180;
+
+  /* Gaps */
+  --gap-21xl: 40px;
+
+  /* Paddings */
+  --padding-mini: 15px;
+  --padding-29xl: 48px;
+  --padding-xl: 20px;
+  --padding-5xl: 24px;
+
+  /* Border radiuses */
+  --br-7xs: 6px;
+  --br-3xs: 10px;
+
+  /* Effects */
+  --card-shadow-1: 0px 8px 40px -2px rgba(6, 12, 59, 0.08);
+}
