@@ -5,7 +5,9 @@ import {
   useNavigationType,
   useLocation,
 } from "react-router-dom";
-import Homepage from "./pages/Homepage";
+import LandingPage from "./pages/LandingPage";
+import GolfWebsite from "./pages/GolfWebsite";
+import Frame1 from "./pages/Frame";
 
 function App() {
   const action = useNavigationType();
@@ -27,6 +29,14 @@ function App() {
         title = "";
         metaDescription = "";
         break;
+      case "/1007-golf-website":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/frame-1":
+        title = "";
+        metaDescription = "";
+        break;
     }
 
     if (title) {
@@ -45,7 +55,9 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<Homepage />} />
+      <Route path="/" element={<LandingPage />} />
+      <Route path="/1007-golf-website" element={<GolfWebsite />} />
+      <Route path="/frame-1" element={<Frame1 />} />
     </Routes>
   );
 }
